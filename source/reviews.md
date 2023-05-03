@@ -572,3 +572,20 @@ I enjoyed the whole course and i didn't feel bored or hard to focus at all. You 
 
 I can't thank you enough for your efforts and I hope you keep doing great content.
 <br></br>
+
+<br></br>
+![Test Test](images/reviewers/MonaMohamed.png)
+
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+
+### Connect with Abdelhalim Zaki : &ensp; 
+<a href="https://www.facebook.com/A.halim.zaki/">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" />
+</a>&ensp;
+<a href="https://www.linkedin.com/in/abdelhalimzaki/">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+</a>
+
+
+
+<br></br>
